@@ -13,7 +13,7 @@ class App(QMainWindow):
         self.alfavit_RU = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
         self.encryption_radioButton.setChecked(True)
         self.RU_radioButton.setChecked(True)
-        self.label_6.setPixmap(QPixmap('cezar.png'))
+        self.label_6.setPixmap(QPixmap('cezar.jpg'))
         self.pushButton.clicked.connect(self.func)
 
     def change_color(self):
