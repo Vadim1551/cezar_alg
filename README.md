@@ -2,6 +2,7 @@
 ```
 git clone https://github.com/Vadim1551/cezar_alg.git
 cd cezar_alg
+git checkout master
 ```
 ## После нужно установить модуль PyQt5 в ваш Python
 ```
